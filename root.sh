@@ -1,7 +1,7 @@
 package: ROOT
 version: "%(tag_basename)s"
 tag: "v6-26-04-patches-alice2"
-source: https://github.com/alisw/root.git
+source: https://github.com/ge34zez/root.git
 requires:
   - arrow
   - AliEn-Runtime:(?!.*ppc64)
