@@ -42,7 +42,7 @@ env:
     dryable==1.0.3
     responses==0.10.6
     pandas==1.2.3
-    scikit-learn==0.24.1
+    scikit-learn==1.1.3
     setuptools==65.5.1
   PIP39_REQUIREMENTS: |
     PyYAML==5.1
@@ -52,7 +52,7 @@ env:
     scipy==1.7.3
     Cython==0.29.21
     seaborn==0.11.0
-    scikit-learn==0.24.0rc1
+    scikit-learn==1.1.3
     sklearn-evaluation==0.5.2
     Keras==2.4.3
     xgboost==1.2.0
@@ -69,7 +69,7 @@ env:
     scipy==1.7.3
     Cython==0.29.21
     seaborn==0.11.0
-    scikit-learn==0.24.0rc1
+    scikit-learn==1.1.3
     sklearn-evaluation==0.5.2
     Keras==2.4.3
     xgboost==1.2.0
@@ -84,7 +84,7 @@ env:
     scipy==1.9.3
     Cython==0.29.21
     seaborn==0.11.0
-    scikit-learn==0.24.0rc1
+    scikit-learn==1.1.3
     sklearn-evaluation==0.8.1
     Keras==2.4.3
     xgboost==1.2.0
